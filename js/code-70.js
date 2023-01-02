@@ -1,0 +1,1 @@
+document.querySelector(".user-70").textContent = "彭彭老師";
